@@ -1,0 +1,9 @@
+#setupLink.disabled {
+    cursor: none;
+    color: #CCCCCC;
+}
+#command input{
+    width: 15.8%;
+    text-align: center;
+    font-weight: 900;
+}
